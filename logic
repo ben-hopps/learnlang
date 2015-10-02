@@ -1,0 +1,6 @@
+problem:
+I don't know how to write software that is capable of learning how to learn what someone means unless that software already knows (has hardcoded routines depicting) the language that person uses.
+solution:
+Write a program that takes human language as input and takes a bilingual human's translation of the first language input as input and uses a routine with a hardcoded depiction of the language the translator translated to to perform pattern matching using a machine learning routine, which includes code describing the best practices of human communication, ie, repeating back in its own words what it assumed the human outputing the first language input meant, to output the steps it took to learn how to make the translation.
+
+Write the routine with the hardcoded depiction of the language the translator translated to such that it uses machine learning to detect paterns in a database of the program's output new steps to the database as it performs pattern matching on the steps the human translator took.
